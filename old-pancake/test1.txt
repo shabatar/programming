@@ -1,0 +1,17 @@
+pan_R 5.0
+pan_Work 0.9
+volume 40.0
+amount 4
+height 0.8
+3.5
+3.6
+3.7
+4.2
+0 0
+0 0.0
+0.2 0.1
+1 0
+
+#####
+Amount of pans: 2
+Amount of perfect pancakes: 2
